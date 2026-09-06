@@ -142,8 +142,8 @@ export const projects: Project[] = [
     role: "Designer & Frontend Developer",
     tools: ["Figma", "Next.js", "Tailwind CSS"],
     links: [
-      { label: "Kunjungi situs dokumentasi", url: "https://github.com/tif1336/final-project-membuat-website-restoran-dengan-react-js-tikus.git" },
-      { label: "Lihat kode sumber", url: "https://github.com/tif1336/final-project-membuat-website-restoran-dengan-react-js-tikus.git" },
+      { label: "Kunjungi situs dokumentasi", url: "https://github.com/Ulinnuh4/Restoran-Solo-porto/blob/main/README.md" },
+      { label: "Lihat kode sumber", url: "https://github.com/Ulinnuh4/Restoran-Solo-porto" },
     ],
   },
 ];
