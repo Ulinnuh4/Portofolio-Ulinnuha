@@ -94,7 +94,7 @@ export const projects: Project[] = [
     category: "Mobile App",
     year: "2025",
     images: [
-      "/images/app.png", 
+      "/images/App.png", 
   
     ],
     description: "Deskripsi singkat 1-2 kalimat untuk kartu di halaman utama.",
