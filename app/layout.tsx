@@ -19,9 +19,9 @@ const fraunces = Fraunces({
 
 // GANTI title dan description di bawah dengan nama dan profesi kamu.
 export const metadata: Metadata = {
-  title: "Nama Kamu — Portofolio",
+  title: "Ulinnuha — Portofolio",
   description:
-    "Portofolio Nama Kamu, UI/UX Designer & Frontend Developer.",
+    "Portofolio Ulinnuha, UI/UX Designer & Frontend Developer.",
 };
 
 export default function RootLayout({
