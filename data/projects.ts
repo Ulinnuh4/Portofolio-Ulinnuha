@@ -70,7 +70,7 @@ export const projects: Project[] = [
     ],
     credentials: [
       { 
-        PIN : "111111"         
+        PIN : "111111",       
       }
     ]
 
