@@ -33,8 +33,8 @@ export const projects: Project[] = [
     description:
       "Perancangan ulang logo, kemasan, dan panduan brand untuk kedai kopi lokal.",
     fullDescription:
-      "Sistem Manajemen Bahan Baku ini dikembangkan sebagai proyek final perkuliahan berdasarkan kebutuhan dan studi kasus langsung di Resto Katsukai, Solo. Menjabat sebagai pengembang Frontend dan Backend, saya merancang sistem yang mampu mengatasi tantangan pencatatan inventaris manual. Fitur utamanya mencakup dashboard analitik untuk grafik penggunaan bahan, tabel manajemen stok, serta pemantauan sisa stok kritis guna mencegah terjadinya kehabisan bahan baku secara mendadak.",
-    role: "Frontend & Backend Sistem",
+      "Sistem Manajemen Bahan Baku ini dikembangkan sebagai proyek final perkuliahan berdasarkan kebutuhan dan studi kasus langsung di Resto Katsukai, Solo. Sebagai pengembang Frontend, Backend, dan System Administrator, saya merancang sistem yang mampu mengatasi tantangan pencatatan inventaris manual dan juga mengoparsikan sistem tersebut. Fitur utamanya mencakup dashboard analitik untuk grafik penggunaan bahan, tabel manajemen stok, serta pemantauan sisa stok kritis guna mencegah terjadinya kehabisan bahan baku secara mendadak.",
+    role: "Frontend, Backend Sistem, & System Administrator",
     tools: ["Visual Code Studio", "Laravel", "xampp"],
     links: [
       { label: "Lihat studi kasus lengkap", url: "https://dapur-katsukai.smartsense.my.id" },
@@ -46,6 +46,34 @@ export const projects: Project[] = [
         password: "password"         
       }
     ]
+  },
+
+  {
+    id: "surat-komitmen-kerja",
+    title: "Dashboard — Surat Komitmen Kerja",
+    category: "Web Administration",
+    year: "2026",
+    images: [
+      "/images/uta.png",
+      "/images/dash.png",
+      "/images/buat.png",
+      "/images/detail.png",
+    ],
+    description:
+      "Sistem Informasi Surat Komitmen Kerja",
+    fullDescription:
+      "Sistem Informasi Surat Komitmen Kerja merupakan aplikasi berbasis web yang dirancang untuk mempermudah proses pembuatan, pengajuan, persetujuan, dan pemantauan surat komitmen kerja secara digital. Aplikasi ini bertujuan untuk menggantikan proses administrasi manual menjadi lebih terstruktur, efisien, dan transparan. Melalui sistem ini, pengguna dapat memantau perkembangan status surat, mulai dari menunggu persetujuan, memerlukan revisi, ditolak, hingga selesai.",
+    role: "Web Developer & System Administrator",
+    tools: ["Javascript", "Next.js", "Supabase", "Tailwind CSS"],
+    links: [
+      { label: "Kunjungi situs dokumentasi", url: "https://projectmagangt.netlify.app" },
+    ],
+    credentials: [
+      { 
+        PIN : "111111"         
+      }
+    ]
+
   },
   {
     id: "aplikasi-catatan-harian",
