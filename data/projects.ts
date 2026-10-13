@@ -73,8 +73,8 @@ export const projects: Project[] = [
       {
         role: "-",
         username: "-", 
-        password: "-" 
-        PIN : "111111"
+        password: "-",
+        pin: "111111"
       }
     ]
   },
