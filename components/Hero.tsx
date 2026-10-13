@@ -14,11 +14,11 @@ export default function Hero() {
               Fresh Graduate <br/>Universitas Muhammadiyah Surakarta.
             </h1>
             <p className="mt-6 max-w-xl font-sans text-base md:text-lg text-muted leading-relaxed">
-              Lulusan Teknik Informatika dengan pengalaman sebagai Staff TI 
-              yang mengelola operasional teknologi, keluhan pengguna, dan pembaruan sistem. 
-              Lebih dari sekadar dukungan operasional, 
-              saya juga sangat menyukai proses perancangan antarmuka dan 
-              pengembangan aplikasi. Dengan keahlian di Figma, PHP, Laravel, hingga React.
+              Lulusan Teknik Informatika Universitas Muhammadiyah Surakarta 
+              dengan pengalaman sebagai Staf IT dalam administrasi digital, pengelolaan data, dan dukungan operasional teknologi. 
+              Saya terlibat dalam pengembangan sistem informasi, digitalisasi proses administrasi, serta pengelolaan dan pelaporan data produksi. 
+              Dengan kemampuan analitis, ketelitian, dan pemecahan masalah, 
+              saya juga memiliki ketertarikan pada perancangan antarmuka dan pengembangan aplikasi menggunakan Figma, PHP, Laravel, dan React.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a
