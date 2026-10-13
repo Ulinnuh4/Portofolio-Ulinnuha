@@ -14,7 +14,7 @@ export const education: Education[] = [
     period: "2022 — 2026",
     gpa: "3.75 / 4.00",
     description:
-      "Mempelajari berbagai bidang dalam pengembangan perangkat lunak dan teknologi informasi, meliputi algoritma dan pemrograman, pemrograman web, rekayasa perangkat lunak, sistem basis data, pemrograman berorientasi objek, serta interaksi manusia dan komputer. Fokus pembelajaran juga mencakup pengembangan aplikasi, perancangan antarmuka pengguna (UI/UX), dan penerapan teknologi dalam penyelesaian permasalahan melalui proyek akademik dan tugas akhir mata kuliah.",
+      "Mempelajari berbagai bidang teknologi informasi dengan latar belakang jurusan Komputer dan Jaringan, meliputi jaringan komputer, perangkat keras, algoritma dan pemrograman, pengembangan web, rekayasa perangkat lunak, sistem basis data, serta pemrograman berorientasi objek. Fokus pembelajaran juga mencakup pengembangan aplikasi, perancangan antarmuka pengguna, dan interaksi manusia dan komputer, dengan penerapan melalui proyek akademik dan tugas akhir mata kuliah untuk menyelesaikan permasalahan berbasis teknologi.",
   },
   {
     institution: "SMA Negeri 2 Wonogiri",
