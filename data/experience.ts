@@ -8,7 +8,14 @@ export type Experience = {
 // GANTI dengan riwayat pengalaman kerja/magang kamu, urutkan dari yang terbaru.
 export const experience: Experience[] = [
   {
-    role: "Staff IT",
+    role: "Staff Produksi",
+    company: "PT Top and Top Apparel",
+    period: "September 2026 — Sekarang",
+    description:
+      "Mengikuti program MagangHub sebagai **Staff Produksi** dengan berperan dalam mendukung kelancaran operasional produksi dan transformasi digital perusahaan. Bertanggung jawab dalam pengelolaan data, pencatatan, serta pelaporan aktivitas produksi. Turut berkontribusi dalam mengidentifikasi proses administrasi manual dan mengembangkan solusi digital untuk meningkatkan efisiensi serta akurasi pengelolaan data. Berkolaborasi dengan tim produksi dalam pengembangan dan penerapan sistem pendukung operasional agar proses kerja menjadi lebih terstruktur, efektif, dan mudah digunakan.",
+  },
+  {
+    role: "Staf Information Technology",
     company: "Studio Digital Desa Cemani",
     period: "Maret 2025 — Mei 2025",
     description:
