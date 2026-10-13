@@ -70,7 +70,10 @@ export const projects: Project[] = [
       { label: "Kunjungi situs dokumentasi", url: "https://projectmagangt.netlify.app" },
     ],
     credentials: [
-      { 
+      {
+        role: "-",
+        username: "-", 
+        password: "-" 
         PIN : "111111"
       }
     ]
