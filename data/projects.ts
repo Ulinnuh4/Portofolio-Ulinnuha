@@ -13,6 +13,7 @@ export type Project = {
     role: string;
     username: string;
     password: string;
+    pin: string:
   }[];
 };
 
