@@ -73,7 +73,6 @@ export const projects: Project[] = [
         PIN : "111111"
       }
     ]
-
   },
   {
     id: "aplikasi-catatan-harian",
